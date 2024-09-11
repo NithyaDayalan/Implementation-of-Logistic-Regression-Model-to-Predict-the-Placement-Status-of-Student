@@ -21,8 +21,8 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: NITHYA D
 RegisterNumber:  212223240110
 */
-```
-```
+
+
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
@@ -103,9 +103,29 @@ print(y_pred)
 ### Salary Data :
 ![image](https://github.com/user-attachments/assets/83b94de5-71d2-4ad8-8dbf-16a304f4e230)
 
-### Checking the null() function:
+### Checking the null() function :
 ![image](https://github.com/user-attachments/assets/b540a324-7896-41a0-8c86-f468c75b2a41)
 
+### Data Duplicate :
+![image](https://github.com/user-attachments/assets/609408fb-e50a-420d-a7d1-1fd55f1c23fd)
+
+### Clean Data :
+![image](https://github.com/user-attachments/assets/22f20d89-9223-4f7f-bd41-d048528d081b)
+
+### Y-Prediction Array :
+![image](https://github.com/user-attachments/assets/76b1807a-e0b1-497a-82a9-b1cb2d26387a)
+
+### Missing Values Check :
+![image](https://github.com/user-attachments/assets/e41434bc-d45d-4def-95d4-fcf514245ee7)
+
+### Accuracy value :
+![image](https://github.com/user-attachments/assets/849c1dec-93e4-4f51-8235-7c9744eeb9dc)
+
+### Confusion array :
+![image](https://github.com/user-attachments/assets/bcf0b6f7-20be-4590-b818-3ad35ebb3c39)
+
+### Classification Report :
+![image](https://github.com/user-attachments/assets/e800038a-3a15-4b55-a2f8-7f16d04ba40a)
 
 
 ## Result :
